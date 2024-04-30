@@ -1,0 +1,6 @@
+services:
+  - name: static-site
+    type: static
+    
+publishDirectory: public
+
